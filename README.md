@@ -1,11 +1,11 @@
 # Identify IPs, domains, hashes, operating system commands with one click without leaving your browser tab.
 
-SOCbuddy can allow security analysts, system administrators, or incident responders to quickly look up artifacts on their SIEM or any web application containing log files. This tool may reduce triage and investigation times as well as headaches from manually searching IP addresses or operating system commands that require multiple tabs to keep track of.
+SOCMaster can allow security analysts, system administrators, or incident responders to quickly look up artifacts on their SIEM or any web application containing log files. This tool may reduce triage and investigation times as well as headaches from manually searching IP addresses or operating system commands that require multiple tabs to keep track of.
 
 ## How to use
 
 1. Highlight an artifact and Rightclick
-2. Select "SOCbuddy"
+2. Select "SOCMaster"
 3. Click one of the options available
 4. Menu will appear on lower right side containing information about the artifacts
 
@@ -14,7 +14,7 @@ SOCbuddy can allow security analysts, system administrators, or incident respond
 To query IP, Domain, and Hash using vendor API keys, the API key is required. Follow the steps:
 
 1. Click Extensions icon in Google Chrome's upper right menu
-2. Click "SOCbuddy" > Settings
+2. Click "SOCMaster" > Settings
 3. On the settings page, on the upper right corner click "Add API key"
 4. On intel source selection, select API key vendor
 5. Paste Vendor API key on the field
