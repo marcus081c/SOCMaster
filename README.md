@@ -43,15 +43,15 @@ The administrator can highlight and select the "Find command information" option
 
 This chrome extension uses following websites as reference data:
 
-lolbas-project.github.io
-gtfobins.github.io
-ss64.com
-man7.org
-linux.die.net
-file.net
-learn.microsoft.com
-google.com
-renenyffenegger.ch
-strontic.github.io
+lolbas-project.github.io  
+gtfobins.github.io  
+ss64.com  
+man7.org  
+linux.die.net  
+file.net  
+learn.microsoft.com  
+google.com  
+renenyffenegger.ch  
+strontic.github.io  
 
 Michael Hingpit for help with UI  
