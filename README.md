@@ -43,21 +43,15 @@ The administrator can highlight and select the "Find command information" option
 
 This chrome extension uses following websites as reference data:
 
-[https://lolbas-project.github.io/  
-https://gtfobins.github.io/  
-https://ss64.com/  
-https://man7.org/  
-https://linux.die.net/  
-https://learn.microsoft.com/en-us/powershell/module/  
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands  
-](https://lolbas-project.github.io/  
-https://gtfobins.github.io/  
-https://ss64.com/  
-https://man7.org/  
-https://linux.die.net/  
-https://learn.microsoft.com/en-us/powershell/module/  
-https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands  
-https://www.file.net  
-https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/  
+lolbas-project.github.io
+gtfobins.github.io
+ss64.com
+man7.org
+linux.die.net
+file.net
+learn.microsoft.com
+google.com
+renenyffenegger.ch
+strontic.github.io
 
 Michael Hingpit for help with UI  
